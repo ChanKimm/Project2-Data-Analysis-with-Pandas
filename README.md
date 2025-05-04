@@ -1,4 +1,4 @@
-# Project 2 - Data Analysis-with-Pandas
+# Project 2 - Data Analysis with Pandas
 
 The broad goal for your Project #2 is to demonstrate some understanding and appreciation for
 data analysis using Python and its growing suite of Data Science libraries with a special focus on
